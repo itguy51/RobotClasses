@@ -1,0 +1,4 @@
+Notes
+This is currently written for Desktop usage and coding. To actually implement the logic,
+uncomment the lines started with 3 '/' characters, and comment the lines that end with '//commentme'
+for final usage and builds.
